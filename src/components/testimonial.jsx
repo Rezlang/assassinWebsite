@@ -5,19 +5,22 @@ const Testimonial = () => {
   return (
     <section id="testimonial">
       <p className="company-message">
-        "Unleash your potential with Lightweight - the ultimate app for high-motivation
-        weightlifters. Elevate your training, track progress, and exceed your goals." -
+              ""Experience thrilling fun with AssassinGame
+              - the ultimate app for large-scale, location-based gameplay.
+              Designed for intense, interactive sessions,
+              it brings Senior Assassin to a new level." - Our CEO" -
         Our CEO
       </p>
       <div className="row">
         <div className="col span_1_of_3">
           <div className="bubble">
             <p className="message">
-              "LightWeight app provides personalized workout sessions for beginners
-              like me. With clear exercise instructions and customizable weights and
-              reps, I feel confident and motivated to start my fitness journey. The app
-              adapts based on my progress, ensuring each session is challenging yet
-              achievable."
+                          "AssassinGame has completely transformed our group activities!
+                          With its cross-platform compatibility and seamless location tracking,
+                          it’s never been easier to engage everyone in a thrilling game of Senior
+                          Assassin. The app’s real-time updates and mission notifications
+                          keep us all on our toes, creating an atmosphere of excitement and
+                          strategy that everyone loves."
             </p>
             <span className="company-name">Customer</span>
           </div>
@@ -25,18 +28,18 @@ const Testimonial = () => {
           <img src="/logo512.png" alt="Avatar1" className="avatar" />
             <div className="name">
               <h4>Robert Smith</h4>
-              <p className="role">Computer Scientist</p>
+              <p className="role">Community Organizer</p>
             </div>
           </div>
         </div>
         <div className="col span_1_of_3">
           <div className="bubble">
             <p className="message">
-              "LightWeight app has revolutionized my bodybuilding journey. With easy
-              exercise management, customizable templates, and detailed progress
-              tracking, it keeps me focused and motivated. The app's intuitive interface
-              and visual charts provide a clear overview of my progress, empowering me
-              to push harder and achieve my professional bodybuilding goals."
+                "AssassinGame brings a new layer of excitement to gatherings.
+                I love how easy it is to organize large-scale games and keep everyone connected,
+                no matter their device. The app’s location-based mechanics and intuitive design
+                make each game feel immersive and suspenseful. It’s the perfect way to have some
+                friendly competition with friends!"
             </p>
             <span className="company-name">Customer</span>
           </div>
@@ -44,7 +47,7 @@ const Testimonial = () => {
           <img src="/logo512.png" alt="Avatar2" className="avatar" />
             <div className="name">
               <h4>Tom Johnson</h4>
-              <p className="role">Recent Graduate</p>
+              <p className="role">Recurring Player</p>
             </div>
           </div>
         </div>
