@@ -22,7 +22,6 @@ const Testimonial = () => {
                           keep us all on our toes, creating an atmosphere of excitement and
                           strategy that everyone loves."
             </p>
-            <span className="company-name">Customer</span>
           </div>
           <div className="client-info">
           <img src="/logo512.png" alt="Avatar1" className="avatar" />
@@ -41,7 +40,6 @@ const Testimonial = () => {
                 make each game feel immersive and suspenseful. It’s the perfect way to have some
                 friendly competition with friends!"
             </p>
-            <span className="company-name">Customer</span>
           </div>
           <div className="client-info">
           <img src="/logo512.png" alt="Avatar2" className="avatar" />

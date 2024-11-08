@@ -7,7 +7,7 @@ const Header = () => {
     <nav className="navbar">
       <div className="logo-container">
       <img src="/logo512.png" alt="Logo" className="logo-img" />
-        <span className="logo-text">Lightweight</span>
+        <span className="logo-text">AssassinGame</span>
       </div>
       
       <div className="nav-links">

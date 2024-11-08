@@ -55,6 +55,7 @@ body, html {
     background-color: red;
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
+    bottom: -.3rem;
   }
   
   .hover-underline-animation:hover::after {
