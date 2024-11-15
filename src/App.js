@@ -10,12 +10,15 @@ function App() {
   return (
     <div>
       <Header />
-
-      <div className="hero-image parallax">
+      <div className="parallax">
         <div className="dark-overlay">
           <h1 className="slogan">Kill your friends, Assassinate your enemies</h1>
         </div>
+        <div className="hero-image" />
+        <div className="hero-image" />
+        <div className="hero-image" />
       </div>
+      
 
       <Testimonial />
       <Download />
